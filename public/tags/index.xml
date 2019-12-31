@@ -6,9 +6,28 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016. Some rights reserved.</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://diegocunha.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blog</title>
+      <link>https://diegocunha.me/tags/blog/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diegocunha.me/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portugues</title>
+      <link>https://diegocunha.me/tags/portugues/</link>
+      <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://diegocunha.me/tags/portugues/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

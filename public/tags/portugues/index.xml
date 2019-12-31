@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://diegocunha.me/</link>
-    <description>Recent content on </description>
+    <title>portugues on </title>
+    <link>https://diegocunha.me/tags/portugues/</link>
+    <description>Recent content in portugues on </description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2016. Some rights reserved.</copyright>
     <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://diegocunha.me/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diegocunha.me/tags/portugues/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,18 +20,6 @@
       <description>TL;DR O texto será sobre o porque decidi criar um blog, e iniciar a dividir minhas experiência, desafios e realizações.
 Público alvo Esse texto é para qualquer pessoa interessada em ler sobre experiências de mudanças de blogs e escrita de contéudo técnico.
 Introdução Nunca criei um blog para mim, sempre pensei &amp;ldquo;Porque criar um blog se não tenho nada a compartilhar&amp;rdquo;, mas depois que começei a estudar o mundo DevOps e começei a trabalhar como Engenheiro DevOps, muitos materiais,blogs e documentação me ajudaram de uma forma tremenda na minha migração e dia-a-dia.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://diegocunha.me/about/</link>
-      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://diegocunha.me/about/</guid>
-      <description>English TBD
-Portuguese Joinvillense apaixonado por tecnologia, com base da vida profissional na infrastrutura tradicional que adora conhecimento, migrei a mais de 3 anos para a área DevOps sempre em busca de acompanhar o mercado de tecnlogia.
-Trabalho atualmente na Plandomino na Irlanda, focado em infraestrutura como código, cultura devops e cloud.
-Minhas apresentações estão aqui, se você quiser entrar em contato para conversar ou convidar para apresentar um dos assuntos acima, preencha o formulário abaixo.</description>
     </item>
     
   </channel>
