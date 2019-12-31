@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://diegocunha.me/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2016. Some rights reserved.</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://diegocunha.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://diegocunha.me/about/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://diegocunha.me/about/</guid>
+      <description>English TBD
+Portuguese Soteropolitano, hacker urbano e consultor de infraestrutura, formado na Universidade de Salvador no curso de Gestão de Redes.
+Trabalho atualmente na Paycertify, focado em infraestrutura como código, cultura devops e cloud. Autor do livro &amp;ldquo;Docker para desenvolvedores&amp;rdquo;: https://leanpub.com/dockerparadesenvolvedores
+Core Organizer do DevOpsDays: https://www.devopsdays.org/about/
+Minhas apresentações estão aqui, se você quiser entrar em contato para conversar ou convidar para apresentar um dos assuntos acima, preencha o formulário abaixo.</description>
+    </item>
+    
+  </channel>
+</rss>
