@@ -28,4 +28,4 @@ Essa é a primeira postagem, apenas para me apresentar e dizer que vou tentar pu
 Vamos juntos, e caso queiram ajuda ou me dar conselhos meus contatos estão na Bio.
 
 
-Obrigado.
+Obrigado. 
