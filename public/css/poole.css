@@ -22,7 +22,7 @@
  * Messages
  * Container
  * Masthead
- * Posts and pages
+ * postss and pages
  * Pagination
  * Reverse layout
  * Themes
@@ -322,58 +322,58 @@ tbody tr:nth-child(odd) th {
 
 
 /*
- * Posts and pages
+ * postss and pages
  *
- * Each post is wrapped in `.post` and is used on default and post layouts. Each
+ * Each posts is wrapped in `.posts` and is used on default and posts layouts. Each
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
 .page,
-.post {
+.posts {
   margin-bottom: 4em;
 }
 
-/* Blog post or page title */
+/* Blog posts or page title */
 .page-title,
-.post-title,
-.post-title a {
+.posts-title,
+.posts-title a {
   color: #303030;
 }
 .page-title,
-.post-title {
+.posts-title {
   margin-top: 0;
 }
 
-/* Meta data line below post title */
-.post-date {
+/* Meta data line below posts title */
+.posts-date {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
 
-/* Related posts */
+/* Related postss */
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
   border-top: 1px solid #eee;
 }
-.related-posts {
+.related-postss {
   padding-left: 0;
   list-style: none;
 }
-.related-posts h3 {
+.related-postss h3 {
   margin-top: 0;
 }
-.related-posts li small {
+.related-postss li small {
   font-size: 75%;
   color: #999;
 }
-.related-posts li a:hover {
+.related-postss li a:hover {
   color: #268bd2;
   text-decoration: none;
 }
-.related-posts li a:hover small {
+.related-postss li a:hover small {
   color: inherit;
 }
 
@@ -382,7 +382,7 @@ tbody tr:nth-child(odd) th {
  * Pagination
  *
  * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
- * there are no more previous or next posts to show.
+ * there are no more previous or next postss to show.
  */
 
 .pagination {

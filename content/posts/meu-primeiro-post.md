@@ -1,5 +1,5 @@
 ---
-title: Meu primeiro post
+title: Meu primeiro posts
 date: '2020-01-02T15:04:51-03:00'
 tags:
   - portugues
@@ -25,7 +25,7 @@ Assim como sempre consegui muita ajuda na comunidade, porque não criar material
 
 ### Publicação
 
-Essa é a primeira postagem, apenas para me apresentar e dizer que vou tentar publicar aqui materiais que eu acreditar serem importantes como criar meus materiais com problemas que enfrentei nos ambientes que ajudei a construir.
+Essa é a primeira postsagem, apenas para me apresentar e dizer que vou tentar publicar aqui materiais que eu acreditar serem importantes como criar meus materiais com problemas que enfrentei nos ambientes que ajudei a construir.
 
 Vamos juntos, e caso queiram ajuda ou me dar conselhos meus contatos estão na Bio.
 

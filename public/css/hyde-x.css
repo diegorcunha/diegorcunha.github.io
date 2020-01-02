@@ -2,11 +2,11 @@
  * Additional CSS for Hyde-X
  */
 
-.posts {
+.postss {
   list-style: none;
 }
 
-.posts li {
+.postss li {
   margin: 0 0 .5em 0;
 }
 
@@ -123,8 +123,8 @@ a.label:focus {
   background-color: #313131;
 }
 
-.posts a.label,
-.post-date a.label {
+.postss a.label,
+.posts-date a.label {
   color: #fff;
   text-decoration: none;
   cursor: pointer;

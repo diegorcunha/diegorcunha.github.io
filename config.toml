@@ -14,9 +14,9 @@ DefaultContentLanguageInSubdir = true
     homepage = "https://diegocunha.me"
 
 [permalinks]
-    # Optional. Change the permalink format for the 'post' content type.
+    # Optional. Change the permalink format for the 'posts' content type.
     # The format shown here is the same one Jekyll/Octopress uses by default.
-    posts = "blog/:year/:month/:day/:title"
+    postss = "blog/:year/:month/:day/:title"
 
 [taxonomies]
   tag = "tags"

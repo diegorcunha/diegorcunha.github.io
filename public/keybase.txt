@@ -70,7 +70,7 @@ JWV8d9L0u63G2LEynYq52htZ1Hj/SOet5YGQyYS/AQ==
 =oDkE
 -----END PGP MESSAGE-----
 
-And finally, I am proving ownership of this host by posting or
+And finally, I am proving ownership of this host by postsing or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/fernandoike
